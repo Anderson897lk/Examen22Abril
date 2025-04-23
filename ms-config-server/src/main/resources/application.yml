@@ -9,7 +9,7 @@ spring:
       server:
         git:
           # ruta de tuuuu repositorio git :V
-          uri: https://github.com/keinraf/Microservicios-KEVINRAF-MANUAL.git
+          uri: https://github.com/Anderson897lk/Examen22Abril.git
           searchPaths: config-data
           default-label: main
   security:
